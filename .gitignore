@@ -143,6 +143,9 @@ fabric.properties
 /captures
 .cxx
 
+#Others
+/.idea/git_toolbox_prj.xml
+
 ### AndroidStudio Patch ###
 
 !/gradle/wrapper/gradle-wrapper.jar
